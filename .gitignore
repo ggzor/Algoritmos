@@ -1,0 +1,5 @@
+.hypothesis
+__pycache__
+XDG_CACHE_HOME
+.pytest_cache
+.vscode/settings.json
